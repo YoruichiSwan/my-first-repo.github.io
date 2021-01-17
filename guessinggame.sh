@@ -4,7 +4,7 @@ FilesCalculation(){
 	b=$(ls | wc -l)
 }
 
-echo "Maybe it's your lucky day. PLease give the number of files you think there are in this directory."
+echo "Maybe it's your lucky day. Please give the number of files you think there are in this directory."
 
 read a
 
