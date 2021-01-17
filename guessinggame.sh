@@ -8,7 +8,7 @@ echo "Maybe it's your lucky day. PLease give the number of files you think there
 
 read a
 
-	while  [ guess =0 ]
+	while  [ guess=0 ]
 		do
 			FilesCalculation
 			if [ "$a" -lt "$b" ]
